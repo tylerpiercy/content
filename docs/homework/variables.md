@@ -45,3 +45,11 @@ Links for how to use Markup language:
 [Lists Homework](lists.md)
 
 [Lists Exercise](../exercises/lists.md)
+
+A link to a file to download for homework:
+
+Click here to download sample CSV file: [sample wells file](variables-files/ut_2015-2020_wells.csv)
+
+^ but this just opens in a new tab. 
+
+Let's try this: <a href="variables-files/ut_2015-2020_wells.csv" download="sample_file.csv">download this</a>
