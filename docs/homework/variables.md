@@ -17,6 +17,7 @@ This is a link to a colab notebook:
 Note that you can simply put raw HTML anywhere and it will render if for you.
 
 This is a list:
+
 * item 1
 * item 2
 * item 3
