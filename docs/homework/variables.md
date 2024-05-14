@@ -8,3 +8,40 @@ More content
 
 ## Another second level heading
 
+This is a link to a colab notebook:
+
+<a href="https://colab.research.google.com/github/BYU-Hydroinformatics/ggst-notebooks/blob/main/ggst_api.ipynb" target="_blank">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab">
+</a>
+
+Note that you can simply put raw HTML anywhere and it will render if for you.
+
+This is a list:
+* item 1
+* item 2
+* item 3
+
+This is another list:
+
+- item 1
+- item 2
+- item 3
+
+This is a table:
+
+First Header | Second Header | Third Header
+------------ | ------------- | ------------
+Content Cell | Content Cell  | Content Cell
+Content Cell | Content Cell  | Content Cell
+
+Links for how to use Markup language:
+
+[MKDocs Overview](https://www.mkdocs.org/user-guide/writing-your-docs/#writing-with-markdown)
+
+[Daring Fireball Primer](https://daringfireball.net/projects/markdown/basics)
+
+^Note the syntax used here. For internal documents it is simpler:
+
+[Lists Homework](lists.md)
+
+[Lists Exercise](../exercises/lists.md)
