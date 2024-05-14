@@ -1,6 +1,10 @@
 site_name: BYU CCE 270
 nav:
   - Unit 1:
+    - Lookups and Match:
+      - Reading: 
+      - In Class: 
+      - Homework:
     - Variables:
       - Reading: homework/variables.md
       - In Class: homework/lists.md
