@@ -3,17 +3,7 @@ nav:
   - Unit 1:
     - Variables:
       - Reading: homework/variables.md
-      - In Class: homework/variables.md
-      - Homework: homework/variables.md
-    - Lists:
-      - Reading: homework/lists.md
       - In Class: homework/lists.md
-      - Homework: homework/variables.md
-  - Homework:
-      - Variables: homework/variables.md
-      - Lists: homework/lists.md
-  - Exercises:
-      - Variables: exercises/variables.md
-      - Lists: exercises/lists.md
+      - Homework: exercises/variables.md
 theme:
   name: readthedocs
