@@ -1,5 +1,14 @@
 site_name: BYU CCE 270
 nav:
+  - Unit 1:
+    - Variables:
+      - Reading: homework/variables.md
+      - In Class: homework/variables.md
+      - Homework: homework/variables.md
+    - Lists:
+      - Reading: homework/lists.md
+      - In Class: homework/lists.md
+      - Homework: homework/variables.md
   - Homework:
       - Variables: homework/variables.md
       - Lists: homework/lists.md
