@@ -2,8 +2,8 @@ site_name: BYU CCE 270
 nav:
   - Unit 1:
     - Lookups and Match:
-      - Reading: filler.md
-      - In Class: filler.md
+      - Reading: unit1/filler.md
+      - In Class: unit1/filler.md
       - Homework: unit1/homework/lookups_and_match.md
     - Variables:
       - Reading: homework/variables.md
