@@ -57,3 +57,15 @@ Let's try this: <a href="variables-files/ut_2015-2020_wells.csv" download="sampl
 Here is how you link an image:
 
 ![Alt text](variables-images/table.png)
+
+This is how you embed python code:
+
+```python
+def my_function(food):
+  for x in food:
+    print(x)
+
+fruits = ["apple", "banana", "cherry"]
+
+my_function(fruits)
+```
