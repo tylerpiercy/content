@@ -50,6 +50,10 @@ A link to a file to download for homework:
 
 Click here to download sample CSV file: [sample wells file](variables-files/ut_2015-2020_wells.csv)
 
-^ but this just opens in a new tab. 
+That seesms to work fine. Or you can use raw html.
 
 Let's try this: <a href="variables-files/ut_2015-2020_wells.csv" download="sample_file.csv">download this</a>
+
+Here is how you link an image:
+
+![Alt text](variables-images/table.png)
