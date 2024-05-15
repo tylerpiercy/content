@@ -16,6 +16,15 @@ This is a link to a colab notebook:
 
 Note that you can simply put raw HTML anywhere and it will render if for you.
 
+### Link to Google Sheet
+
+<a href="https://docs.google.com/spreadsheets/d/1ynsgltOs7mcCoNmw50GxnB2dOR5BM2ltgmLLiEh7Iv4/edit?usp=sharing" target="_blank">
+    <img src="https://cms-assets.recognizeapp.com/wp-content/uploads/2020/05/05175946/sheets-logo.png" alt="Open In Google Sheets">
+</a>
+
+
+## List Example
+
 This is a list:
 
 * item 1
