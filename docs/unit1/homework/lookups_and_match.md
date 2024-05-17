@@ -1,6 +1,7 @@
 # HW: Lookups and Match
 
 I really need to write this HW tonight! (5-17-24)
+I really need to write this HW tonight! (5/17/24)
 
 ## This is a second level heading
 
