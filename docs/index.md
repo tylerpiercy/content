@@ -2,7 +2,7 @@
 
 Welcome to the content repository for BYU CCE 270 - Computational Methods
 
-Test edit.
+Test edit. Again.
 
 ## Commands
 
