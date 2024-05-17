@@ -8,11 +8,6 @@ More content
 
 ## Another second level heading
 
-This is a link to a colab notebook:
-
-<a href="https://colab.research.google.com/github/BYU-Hydroinformatics/ggst-notebooks/blob/main/ggst_api.ipynb" target="_blank">
-    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab">
-</a>
 
 Note that you can simply put raw HTML anywhere and it will render if for you.
 
