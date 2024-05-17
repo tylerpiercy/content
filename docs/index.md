@@ -2,6 +2,8 @@
 
 Welcome to the content repository for BYU CCE 270 - Computational Methods
 
+Test edit.
+
 ## Commands
 
 * `mkdocs new [dir-name]` - Create a new project.
