@@ -1,6 +1,6 @@
-# Welcome to BYU CCE 270
+# Home
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Welcome to the content repository for BYU CCE 270 - Computational Methods
 
 ## Commands
 
