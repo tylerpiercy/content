@@ -1,21 +1,10 @@
 # Home
 
-Welcome to the content repository for BYU CCE 270 - Computational Methods
+Welcome to the content repository for BYU CCE 270 - Computational Methods. This repository contains the homework 
+assignments and exercises associated with the class. The content is organized by unit and category and can be 
+browsed using the navigation bar on the left. You can also access this content from the Schdule page on the BYU 
+Learning Suite page for the class. The schedule will contain links to the content for each unit and category.
 
-Test edit. Again.
+This content is maintained by the course instructors and TAS and is subject to change. If you have any questions, 
+comments, or suggestions, please contact the course instructors.
 
-Here is a change.
-
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
