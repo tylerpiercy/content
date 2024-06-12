@@ -17,7 +17,7 @@ The way you formulate a query string is similar to how you would write a SQL que
 
 "SELECT _list of columns_ WHERE _conditional expression_ ORDER BY _column_"
 
-The list of columns is a comma separated list of the columns you want to include in the output. The conditional expression is a logical expression that filters the rows of the table. The ORDER BY clause is used to sort the output by a column.
+The **list of columns** is a comma separated list of the columns you want to include in the output. The **conditional expression** is a logical expression that filters the rows of the table. The **ORDER BY** clause is used to sort the output by a column.
 
 The query string is case-insensitive, so you can write it in all caps or all lowercase, or any combination of the two.
 
@@ -30,8 +30,6 @@ This query selects all of the rows in A1:F5 where the value in column C are grea
 =QUERY(A1:F5, "SELECT A, B, D WHERE C > 10")
 
 returns only columns A, B, and D from the rows where the value in column C is greater than 10.
-
-The query is written in the form of a SQL query. The query is "SELECT *", which selects all the data in the table. The result of the query is a table that contains all the data in the range A1:C5.
 
 In some cases, you may want to apply multiple conditions to the data. You can do this by using the AND and OR operators in the query. For example, the following query selects all the data in the range A1:C5 where the value in column A is greater than 10 and the value in column B is less than 20:
 
