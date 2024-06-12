@@ -8,7 +8,7 @@ nav:
       - In Class: homework/lists.md
       - Homework: exercises/variables.md
     - Query Function:
-      - Reading: query_function.md
+      - Reading: reading/query_function.md
       - In Class: homework/query_function.md
       - Homework: exercises/query_function.md
 theme:
