@@ -1,4 +1,8 @@
-site_name: 'BYU CCE 270'
+site_name: BYU CCE 270
+site_url: https://byu-cce270.readthedocs.io/en/latest/
+site_description: 'Course materials for CCE 270 at BYU'
+site_author: 'Instructors and TAs of CCE 270 at BYU'
+site_keywords: 'BYU, Civil, Construction, 270, Python, Programming'
 theme:
   name: null
   custom_dir: 'cinder'
@@ -20,3 +24,7 @@ nav:
       - Reading: unit2/reading/lists.md
       - In Class: unit2/homework/lists.md
       - Homework: unit2/exercises/lists.md
+
+plugins:
+  - search
+  - mkdocstrings
