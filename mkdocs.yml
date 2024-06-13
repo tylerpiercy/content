@@ -1,3 +1,3 @@
 site_name: 'BYU CCE 270'
-  theme:
-    name: mkdocs
+theme:
+  name: mkdocs
