@@ -12,4 +12,4 @@ nav:
       - In Class: unit1/homework/query_function.md
       - Homework: unit1/exercises/query_function.md
 theme:
-  name: readthedocs
+  name: mkdocs
