@@ -24,7 +24,3 @@ nav:
       - Reading: unit2/reading/lists.md
       - In Class: unit2/homework/lists.md
       - Homework: unit2/exercises/lists.md
-
-plugins:
-  - search
-  - mkdocstrings
