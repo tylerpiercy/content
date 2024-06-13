@@ -1,6 +1,6 @@
 site_name: BYU CCE 270
 nav:
-  - Home: index.md
+  - Home: 'index.md'
   - 'Unit 1':
     - 'Lookups and Match':
       - 'Homework': 'unit1/homework/lookups_and_match.md'
