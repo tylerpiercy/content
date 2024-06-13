@@ -13,7 +13,7 @@ nav:
       - 'Reading': 'unit2/reading/variables.md'
       - 'In Class': 'unit2/homework/variables.md'
       - 'Homework': 'unit2/exercises/variables.md'
-    - 'Lists': 'homework/lists.md'
+    - 'Lists':
       - 'Reading': 'unit2/reading/lists.md'
       - 'In Class': 'unit2/homework/lists.md'
       - 'Homework': 'unit2/exercises/lists.md'
