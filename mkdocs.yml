@@ -1,21 +1,3 @@
-site_name: BYU CCE 270
-nav:
-  - Home: 'index.md'
-  - 'Unit 1':
-    - 'Lookups and Match':
-      - 'Homework': 'unit1/homework/lookups_and_match.md'
-    - 'Query Function':
-      - 'Reading': 'unit1/reading/query_function.md'
-      - 'In Class': 'unit1/homework/query_function.md'
-      - 'Homework': 'unit1/exercises/query_function.md'
-  - 'Unit 2':
-    - 'Variables':
-      - 'Reading': 'unit2/reading/variables.md'
-      - 'In Class': 'unit2/homework/variables.md'
-      - 'Homework': 'unit2/exercises/variables.md'
-    - 'Lists': 'homework/lists.md'
-      - 'Reading': 'unit2/reading/lists.md'
-      - 'In Class': 'unit2/homework/lists.md'
-      - 'Homework': 'unit2/exercises/lists.md'
+site_name: 'BYU CCE 270'
   theme:
     name: mkdocs
