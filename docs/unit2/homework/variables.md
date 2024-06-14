@@ -49,7 +49,7 @@ Links for how to use Markup language:
 
 A link to a file to download for homework:
 
-Click here to download sample CSV file: [sample wells file](variables-files/ut_2015-2020_wells.csv)
+Click here to download sample CSV file: [sample wells file](variables_files/ut_2015-2020_wells.csv)
 
 That seesms to work fine. Or you can use raw html.
 
@@ -57,7 +57,7 @@ Let's try this: <a href="variables-files/ut_2015-2020_wells.csv" download="sampl
 
 Here is how you link an image:
 
-![Alt text](variables-images/table.png)
+![Alt text](variables_images/table.png)
 
 This is how you embed python code:
 

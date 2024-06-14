@@ -57,7 +57,7 @@ To best illustrate how the query function works, let's consider the following ex
 
 Here is a screenshot of the data:
 
-![employee_data.png](query-images/employee_data.png)
+![employee_data.png](query_images/employee_data.png)
 _(the data in this sheet came from this website: https://www.thespreadsheetguru.com/sample-data/)_
 
 Now suppose we want to create a simplified summary of the data that only includes a subset of the columns and only the employees with a salary greater than $150,000. We can use the query function to do this. We also want to sort the results in order from high to low salary. We can apply this query a separate sheet. Here is the query that you would use:
@@ -66,7 +66,7 @@ Now suppose we want to create a simplified summary of the data that only include
 
 Here is a screenshot of the results:
 
-![employee_data_query.png](query-images/query_high_salary.png)
+![employee_data_query.png](query_images/query_high_salary.png)
 
 Note that the range includes the headings and therefore the query results includes the headings also. You should 
 also note that a query function is dynamic. If the data in the source table changes, the results of the query will automatically update to reflect the changes. This is a powerful feature of the query function.
@@ -81,7 +81,7 @@ in the result. As before, we will put the query in a separate sheet. Here is the
 
 Here is a screenshot of the results:
 
-![employee_data_query.png](query-images/query_senior_us_employees.png)
+![employee_data_query.png](query_images/query_senior_us_employees.png)
 
 ## Conclusion
 

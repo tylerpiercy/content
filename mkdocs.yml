@@ -14,13 +14,13 @@ nav:
       - Homework: unit1/homework/lookups_and_match.md
     - Query Function:
       - Reading: unit1/reading/query_function.md
-      - In Class: unit1/homework/query_function.md
-      - Homework: unit1/exercises/query_function.md
+      - In Class: unit1/exercises/employee_db.md
+      - Homework: unit1/homework/safety_db.md
   - Unit 2:
     - Variables:
       - Reading: unit2/reading/variables.md
-      - In Class: unit2/homework/variables.md
-      - Homework: unit2/exercises/variables.md
+      - In Class: unit2/exercises/variables.md
+      - Homework: unit2/homework/variables.md
     - Lists:
       - Reading: unit2/reading/lists.md
       - In Class: unit2/homework/lists.md
