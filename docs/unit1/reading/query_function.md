@@ -7,7 +7,7 @@ The query function is patterned after the SQL (Structured Query Language) langua
 
 The syntax for the query function is as follows:
 
-=QUERY(data, query, [headers])
+```=QUERY(data, query, [headers])```
 
 The query function has three arguments:
 
@@ -17,7 +17,7 @@ The query function has three arguments:
 
 The way you formulate a query string is similar to how you would write a SQL query, but the syntax is slightly different. While SQL query strings can be fairly complex, for google sheets the syntax is simplified. The general structure of a query string is as follows:
 
-"SELECT _list of columns_ WHERE _conditional expression_ ORDER BY _column_"
+```"SELECT _list of columns_ WHERE _conditional expression_ ORDER BY _column_"```
 
 The **list of columns** is a comma separated list of the columns you want to include in the output. The **conditional expression** is a logical expression that filters the rows of the table. The **ORDER BY** clause is used to sort the output by a column.
 
@@ -25,29 +25,29 @@ The query string is case-insensitive, so you can write it in all caps or all low
 
 Here is an example of a simple query that selects all the data in a table:
 
-**=QUERY(A1:F5, "SELECT * WHERE C > 10")**
+```=QUERY(A1:F5, "SELECT * WHERE C > 10")```
 
 This query selects all of the rows in A1:F5 where the value in column C are greater than 10 and returns all of the columns. By contrast, this query:
 
-**=QUERY(A1:F5, "SELECT A, B, D WHERE C > 10")**
+```=QUERY(A1:F5, "SELECT A, B, D WHERE C > 10")```
 
 returns only columns A, B, and D from the rows where the value in column C is greater than 10.
 
 In some cases, you may want to apply multiple conditions to the data. You can do this by using the AND and OR operators in the query. For example, the following query selects all the data in the range A1:C5 where the value in column A is greater than 10 and the value in column B is less than 20:
 
-**=QUERY(A1:C5, "SELECT * WHERE A > 10 AND B < 20")**
+```=QUERY(A1:C5, "SELECT * WHERE A > 10 AND B < 20")```
 
 You can also use the OR operator to select data that meets one of two conditions. For example, the following query selects all the data in the range A1:C5 where the value in column A is greater than 10 or the value in column B is less than 20:
 
-**=QUERY(A1:C5, "SELECT * WHERE A > 10 OR B < 20")**
+```=QUERY(A1:C5, "SELECT * WHERE A > 10 OR B < 20")```
 
 In some cases, it is convenient to sort the data by the values in one of the columns. You can do this by using the ORDER BY clause in the query. For example, the following query selects the data in the range A1:C5 that meet the specified conditon and sorts the data by the values in column A:
 
-**=QUERY(A1:C5, "SELECT * WHERE C > 10 ORDER BY A")**
+```=QUERY(A1:C5, "SELECT * WHERE C > 10 ORDER BY A")```
 
 You can also use the ORDER BY clause to sort the data in descending order. For example, the following query selects the data in the range A1:C5 that meet the specified condition and sorts the data by the values in column A in descending order:
 
-**=QUERY(A1:C5, "SELECT * WHERE C > 10 ORDER BY A DESC")**
+```=QUERY(A1:C5, "SELECT * WHERE C > 10 ORDER BY A DESC")```
 
 ## Example Problem - Employee Database
 
@@ -62,7 +62,7 @@ _(the data in this sheet came from this website: https://www.thespreadsheetguru.
 
 Now suppose we want to create a simplified summary of the data that only includes a subset of the columns and only the employees with a salary greater than $150,000. We can use the query function to do this. We also want to sort the results in order from high to low salary. We can apply this query a separate sheet. Here is the query that you would use:
 
-**=QUERY(data!A1:P1001,"SELECT B,C,D,E,F,J WHERE J>150000 ORDER BY J DESC")**
+```=QUERY(data!A1:P1001,"SELECT B,C,D,E,F,J WHERE J>150000 ORDER BY J DESC")```
 
 Here is a screenshot of the results:
 
@@ -77,7 +77,7 @@ to see if the exit date in column N is blank. We will also sort the results by t
 hired so that the longest servie employees are listed first. We will only include a few of the columns of interest 
 in the result. As before, we will put the query in a separate sheet. Here is the query:
 
-**=QUERY(data!A1:P1001,"SELECT A,B,C,I,H,P WHERE L='United States' AND P>=20 AND N is null ORDER BY I")**
+```=QUERY(data!A1:P1001,"SELECT A,B,C,I,H,P WHERE L='United States' AND P>=20 AND N is null ORDER BY I")```
 
 Here is a screenshot of the results:
 
