@@ -1,6 +1,6 @@
 # Home
 
-Welcome to the content repository for BYU CCE 270 - Computational Methods. This repository contains the homework 
+Welcome to the content repository for **BYU CCE 270 - Computational Methods**. This repository contains the homework 
 assignments and exercises associated with the class. The content is organized by unit and category and can be 
 browsed using the navigation bar on the left. You can also access this content from the Schdule page on the BYU 
 Learning Suite page for the class. The schedule will contain links to the content for each unit and category.
