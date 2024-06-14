@@ -3,6 +3,7 @@ site_url: https://byu-cce270.readthedocs.io/en/latest/
 site_description: Course materials for CCE 270 at BYU
 site_author: Instructors and TAs of CCE 270 at BYU
 repo_url: https://github.com/byu-cce270/content/
+favicon: 'images/favicon.ico'
 theme:
   name: null
   custom_dir: 'cinder'

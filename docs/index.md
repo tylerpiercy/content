@@ -8,3 +8,4 @@ Learning Suite page for the class. The schedule will contain links to the conten
 This content is maintained by the course instructors and TAS and is subject to change. If you have any questions, 
 comments, or suggestions, please contact the course instructors.
 
+![eng_bldg.jpg](images/eng_bldg.jpg)
