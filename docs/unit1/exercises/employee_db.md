@@ -1,15 +1,14 @@
 # Exercise - Employee Database
 
-The following exercise is based on the Employee Database featured in the reading for the query function. 
-For this exercise, you will create a new sheet and then experiment with the query function to extract data from the Employee Database. 
-You will write queries to retrieve specific data from the table.
+The following exercise is based on the Employee Database featured in the reading for the query function. For this 
+exercise, you will create a new sheet and then experiment with the query function to extract data from the Employee 
+Database. You will write queries to retrieve specific data from the table. 
 
 You can find the Employee Database in the following Google Sheet: [Employee Database](https://docs.google.com/spreadsheets/d/19msUPf9DYVBAMNnoIhYO6RMpdSlKobbJM3Ul7W-qiCU/copy?gid=0#gid=0)
 
 ## Instructions
 
-Click on the plus sign in the bottom left corner to create a new sheet. Then you can start writing your queries in cell A1. 
-Try to write queries that match the following descriptions:
+Click on the plus sign in the bottom left corner to create a new sheet. Then you can start writing your queries in cell A1. Try to write queries that match the following descriptions:
 
 1. Retrieve all the data from the Employee Database.
 2. Retrieve the EEID and names of all employees.
